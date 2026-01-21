@@ -1,0 +1,51 @@
+CustomerID,Product,Quantity,Price,Region,PurchaseDate
+CUST649, Product 3 ,, 150 ,East,
+CUST487,Product 2,Two,,east,
+, Product 3 ,1,100,North,
+, Product 3 ,2,,east,2025-02-19
+,product2,2,,north ,
+CUST691,Prod 3,1,,West,
+CUST821,Product 1,3,100,north ,2025-04-29
+,Product 2,1,100,east,
+,Prod 3,,Three Hundred,,
+CUST181,product_1,,,West,
+CUST987,Product 2,2,300,East,
+,Prod 3,, 150 ,West,
+, Product 3 ,2, 150 ,north ,2024-12-05
+,product 3,1,100,West,2025-06-23
+,product2,1,200,North,
+CUST463,Product 1,three,200,,
+,Prod 3,three,200,,
+,product 3,1,,North,2025-03-12
+CUST763,Product 2,2,Three Hundred, SOUTH,2024-10-24
+,Prod 3,1,200,North,
+,Product-2,1,Three Hundred,North,2025-06-26
+CUST846,product 3,,200,,
+,product_1,3,300,West,
+,product 3,1,Three Hundred,,2024-08-11
+,Product 1,,200,,
+CUST670,product_1,2, 150 ,East,2024-10-03
+,product2,3,100,North,2024-12-07
+CUST963,Product 1,three,Three Hundred,,
+CUST334,Product 2,Two, 150 ,South,
+,product_1,2, 150 ,East,2024-09-11
+,Prod 3,, 150 ,South,
+CUST167,Product-2,2,,,
+,Product 1,three,100,South,
+CUST422,Product-2,,100,West,
+,Product 2,,,east,
+,Product 2,Two,,South,
+CUST569,product2,2, 150 ,,
+CUST371,Product 2,,100,West,2025-04-21
+,product 3,Two,100,,
+,product 3,, 150 ,,
+,product2,Two, 150 ,North,
+,product 3,2,200,,
+,Prod 3,1,200,South,2024-12-27
+CUST470, Product 3 ,1,Three Hundred,east,2025-05-21
+,Product-2,three,Three Hundred,,
+CUST605,Product-2,Two,Three Hundred,,2025-01-14
+CUST873,Prod 3,3,200,,2024-09-03
+CUST981, Product 3 ,Two, 150 , SOUTH,
+,product_1,Two,Three Hundred,north ,
+,product2,Two,100,West,2024-11-16
