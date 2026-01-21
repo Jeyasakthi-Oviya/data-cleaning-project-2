@@ -1,5 +1,3 @@
-# data-cleaning-project-2
-Data cleaning and preprocessing using Python, Pandas, and Seaborn.
 # Data Cleaning Project 2
 
 This project demonstrates data cleaning and preprocessing of a dataset using Python and Pandas. Basic data visualizations are created using Seaborn to understand the dataset.
